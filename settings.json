@@ -29,7 +29,6 @@
     },
     "editor.wordWrap": "bounded",
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "nickfode.latex-formatter",
     "spellright.language": [
         "en"
     ],
@@ -123,5 +122,8 @@
             ],
             "env": {}
         },
-    ]
+    ],
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
+    }
 }
