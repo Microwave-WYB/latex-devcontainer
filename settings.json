@@ -37,6 +37,7 @@
     "latex-workshop.intellisense.bibtexJSON.replace": {},
     "latex-workshop.latex.pdfWatch.delay": 300,
     "latex-workshop.synctex.afterBuild.enabled": true,
+    "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.latex.recipes": [
         {
             "name": "latexmk",
